@@ -1,4 +1,4 @@
-# Software for "A Bayesian hierarchical model for spatial compositional data with zeros and missing values", by 
+# Software for "A Bayesian hierarchical model for spatial compositional data with zeros and missing values" 
 Catherine Holland, Oliver Stoner, and Tereza Neocleous
 
 This is the R code used to produce all the results in the paper,
